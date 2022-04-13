@@ -1,0 +1,42 @@
+_repo: Adair-s-History-of-the-American-Indians_67699
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adair, James
+    deathdate: 1783
+    gutenberg_agent_id: '54402'
+    url: http://www.gutenberg.org/2009/agents/54402
+    wikipedia: https://en.wikipedia.org/wiki/James_Adair_(historian)
+  editor:
+    agent_name: Williams, Samuel Cole
+    aliases:
+    - Williams, Sam'l C. (Samuel Cole)
+    - Williams, Samuel C. (Samuel Cole)
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '54403'
+    url: http://www.gutenberg.org/2009/agents/54403
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Cole_Williams
+description: ''
+gutenberg_issued: '2022-03-24'
+identifiers:
+  gutenberg: '67699'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/umn.31951002290818e
+pgterms:marc905: 20200326050541adair
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: KD Weeks, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United States :The Watauga Press,1930.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians -- Origin'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Southern States'
+- GITenberg
+title: Adair's History of the American Indians
+url: http://www.gutenberg.org/ebooks/67699
